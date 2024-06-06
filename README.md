@@ -1,0 +1,2 @@
+# note_app
+phat_trien_ung_dung_cho_thiet_bi_di_dong
